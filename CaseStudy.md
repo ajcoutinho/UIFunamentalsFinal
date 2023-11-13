@@ -1,5 +1,10 @@
 # Case Study: UI Fundamentals Final
 
+![CoinSave Mockup](UIImage1.png)
+![Questrade Screenshots](UIImage2.png)
+![RBC Screenshots](UIImage4.png)
+![Funda Mockup](UIImage3.jpg)
+
 ## Analysis of mockups and screenshots:
 - Apps use colours to denote information at a glance (Green = gains, Red = Loss)
 - CoinSave colours on graph not apparent in function (Tooltip?)
